@@ -1,7 +1,7 @@
 {
     "vendor": "vtex",
     "name": "smartsupp",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "Smartsupp",
     "description": "Smartsupp seamlessly integrates live chat, email inbox and Facebook Messenger in one customer messaging platform",
     "builders": {
