@@ -1,0 +1,15 @@
+## How it works?
+Smartsupp seamlessly integrates live chat, email inbox and Facebook Messenger in one customer messaging platform
+
+## Is it free forever?
+Yes, Smartsupp has the free forever version for up to 3 operators with the features needed to make your service effective.
+For more features and agents, please check our <a href="https://www.smartsupp.com/pricing" target="_blank">plans</a> 
+
+## How to begin?
+You just need to find your widget_ID and paste it below.
+
+## Got a mobile and desktop app?
+Yes, we have the app available for all devices.
+
+## And if I need help?
+You can find <a href="https://www.smartsupp.com/help" target="_blank">here</a>  a complete guide, or you can just contact us :) 

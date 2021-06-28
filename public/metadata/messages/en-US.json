@@ -1,0 +1,17 @@
+{
+    "name": "Smartsupp",
+    "headline": "Bring all customer communication to one place",
+    "overview": "Smartsupp seamlessly integrates live chat, email inbox and Facebook Messenger in one customer messaging platform",
+    "features": [
+        "Show customers you are ready to help",
+        "Save time, sell more with chatbot",
+        "Get overview about your visitors",
+        "Monitor visitors in real time",
+        "Receive quality of service reviews",
+        "Offer offline contact form"
+    ],
+    "websiteURL": "https://vtex.com/",
+    "support": {
+        "url": "https://support.vtex.com/hc/requests"
+    }
+}
