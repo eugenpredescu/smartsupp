@@ -24,8 +24,8 @@
         "title": "Smartsupp",
         "type": "object",
         "properties": {
-            "widgetId": {
-                "title": "Widget ID",
+            "smartsuppId": {
+                "title": "Smartsupp ID",
                 "description": "Enter the Smartsupp key from your account. (can be found in Settings > Chat box > Chat code)",
                 "type": "string"
             }
