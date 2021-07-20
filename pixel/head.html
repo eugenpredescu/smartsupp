@@ -1,24 +1,18 @@
 <script>
-    (function () {
-        var smartsuppId = "{{settings.smartsuppId}}";
-        if (!smartsuppId) {
-            console.error('Warning: No Smartsupp ID is defined. Please configure it in the apps admin.');
-        } else {
-            var _smartsupp = _smartsupp || {};
-            _smartsupp.key = smartsuppId;
-            window.smartsupp || (function (d) {
-                var s, c, o = smartsupp = function () {
-                    o._.push(arguments)
-                };
-                o._ = [];
-                s = d.getElementsByTagName('script')[0];
-                c = d.createElement('script');
-                c.type = 'text/javascript';
-                c.charset = 'utf-8';
-                c.async = true;
-                c.src = '//www.smartsuppchat.com/loader.js?';
-                s.parentNode.insertBefore(c, s);
-            })(document);
-        }
-    })()
+    var widget_id = "{{settings.widgetId}}";
+    var _smartsupp = _smartsupp || {};
+    _smartsupp.key = widget_id;
+    window.smartsupp || (function(d) {
+        var s, c, o = smartsupp = function() {
+            o._.push(arguments)
+        };
+        o._ = [];
+        s = d.getElementsByTagName('script')[0];
+        c = d.createElement('script');
+        c.type = 'text/javascript';
+        c.charset = 'utf-8';
+        c.async = true;
+        c.src = '//www.smartsuppchat.com/loader.js?';
+        s.parentNode.insertBefore(c, s);
+    })(document);
 </script>

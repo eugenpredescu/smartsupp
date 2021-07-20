@@ -1,7 +1,7 @@
 {
-    "vendor": "vtex",
+    "vendor": "fstudio",
     "name": "smartsupp",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "title": "Smartsupp",
     "description": "Smartsupp seamlessly integrates live chat, email inbox and Facebook Messenger in one customer messaging platform",
     "builders": {
@@ -24,8 +24,8 @@
         "title": "Smartsupp",
         "type": "object",
         "properties": {
-            "smartsuppId": {
-                "title": "Smartsupp ID",
+            "widgetId": {
+                "title": "Widget ID",
                 "description": "Enter the Smartsupp key from your account. (can be found in Settings > Chat box > Chat code)",
                 "type": "string"
             }
