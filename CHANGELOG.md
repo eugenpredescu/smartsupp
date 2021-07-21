@@ -1,3 +1,7 @@
+## [0.0.7] - 2021-07-21
+### Added
+- disable sount notification
+
 ## [0.0.5] - 2021-06-28
 ### Added
 - fix pixel & readme
