@@ -16,4 +16,11 @@
         s.parentNode.insertBefore(c, s);
     })(document);
     localStorage.setItem("_ss.enableSounds", "false");
+    var orderjson = JSON.parse(localStorage.getItem('orderform'));
+    var email = orderjson.clientProfileData.email;
+    var name2 = orderjson.clientProfileData.firstName + ' ' + orderjson.clientProfileData.lastName;
+    var phone = orderjson.clientProfileData.phone;
+    smartsupp('email', email);
+    smartsupp('name', name2);
+    smartsupp('phone', phone);
 </script>

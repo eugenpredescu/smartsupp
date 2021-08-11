@@ -1,3 +1,7 @@
+## [0.0.9] - 2021-08-11
+### Added
+- Visitor identification (name, email, phone)
+
 ## [0.0.7] - 2021-07-21
 ### Added
 - disable sount notification
